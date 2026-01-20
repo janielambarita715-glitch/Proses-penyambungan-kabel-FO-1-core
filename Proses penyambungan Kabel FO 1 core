@@ -1,0 +1,27 @@
+proses penyambungan kabel fo 1 core
+Peralatan yang Dibutuhkan
+​Fusion Splicer: Alat utama untuk melelehkan dan menyambung kaca.
+​Fiber Cleaver: Pemotong ujung kaca agar rata (presisi 90 derajat).
+​Fiber Stripper: Pengupas kulit kabel dan coating (lapisan pelindung kaca).
+​Alcohol 90% & Tissue: Untuk membersihkan kotoran pada core.
+​Protection Sleeve: Selongsong pelindung sambungan.
+​1. Persiapan Kabel
+​Masukkan Protection Sleeve ke salah satu ujung kabel sebelum dikupas. Ini sering terlupakan, padahal jika sudah disambung, selongsong ini tidak bisa masuk lagi.
+​Kupas kulit luar kabel (jaket) menggunakan stripper sekitar 3-5 cm.
+​Kupas lapisan coating (biasanya berwarna) hingga menyisakan kaca murni (cladding) sepanjang 2-3 cm.
+2. Pembersihan Core
+​Basahi tissue dengan alkohol.
+​Bersihkan bagian kaca yang sudah dikupas tadi hingga terdengar bunyi "mencit" (bersih sempurna). Penting: Setelah dibersihkan, jangan sampai kaca menyentuh benda apa pun agar tidak ada debu.
+​3. Pemotongan (Cleaving)
+​Letakkan kaca pada Fiber Cleaver.
+​Pastikan panjang potongan sesuai dengan skala pada alat (biasanya 10-16 mm).
+​Potong dengan sekali tekan. Hasil potongan harus rata tegak lurus agar laser pada splicer bisa menyambungkannya dengan sempurna.
+​4. Proses Splicing (Penyambungan)
+​Buka penutup Fusion Splicer.
+​Letakkan kedua ujung kabel pada v-groove alat. Pastikan ujung kaca tidak menyentuh satu sama lain dan berada di antara dua elektroda.
+​Tutup alat dan tekan tombol SET/Splice. Alat akan melakukan kalibrasi secara otomatis, mensejajarkan core, dan menembakkan bunga api listrik untuk melelehkan kaca.
+​Cek layar: Pastikan estimasi redaman (loss) rendah (idealnya 0.00 dB sampai 0.02 dB).
+​5. Pemanasan Protection Sleeve
+​Setelah tersambung, geser Protection Sleeve ke titik sambungan kaca yang terbuka.
+​Masukkan ke dalam heater (pemanas) yang ada di bagian atas alat splicer.
+​Tunggu hingga proses pemanasan selesai (biasanya ditandai bunyi bip).
